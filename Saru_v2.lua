@@ -1966,7 +1966,7 @@ local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 
 local Window = Library:CreateWindow({
-Title = 'Saru Hub Script New v2 - Sunday, November 13, 2022',
+Title = 'Bit Hub - Sunday, November 13, 2022',
 Center = true, 
 AutoShow = true,
 })
@@ -1985,7 +1985,7 @@ ThemeManager:SetLibrary(Library)
 
 ThemeManager:ApplyToTab(Tabs['Settings'])
 
-Library:SetWatermark('Saru Hub Script New - Premiun v2 ')
+Library:SetWatermark('Bit Hub - Premiun v2 ')
 
 local MainFarmTab = Tabs.Main:AddLeftTabbox()
 
