@@ -87,7 +87,7 @@ httpsreq({
             Body = game:GetService("HttpService"):JSONEncode({
                 cmd = "INVITE_BROWSER",
                 args = {
-                    code = "kMZr2ubkyQ"
+                    -- code = "kMZr2ubkyQ"
                 },
                 nonce = game:GetService("HttpService"):GenerateGUID(false)
             }),
