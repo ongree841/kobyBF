@@ -2608,7 +2608,7 @@ local IMGNAME = Instance.new("ImageLabel")
 		NameReal2.AnchorPoint = Vector2.new(0.5, 0.5)
 		NameReal2.Size = UDim2.new(0, 136, 0, 34)
 		NameReal2.Font = Enum.Font.GothamBold
-		NameReal2.Text = "Sixterfals"
+		NameReal2.Text = "Chuunibyou Hub"
 		NameReal2.TextColor3 = _G.ColorMethod
 		NameReal2.TextSize = 25.000
 
@@ -2672,7 +2672,7 @@ local IMGNAME = Instance.new("ImageLabel")
 		NameReal.AnchorPoint = Vector2.new(0.5, 0.5)
 		NameReal.Size = UDim2.new(0, 136, 0, 34)
 		NameReal.Font = Enum.Font.GothamBold
-		NameReal.Text = "Sixterfals"
+		NameReal.Text = "Chuunibyou Hub"
 		NameReal.TextColor3 = _G.ColorMethod
 		NameReal.TextSize = 23.000
 		
