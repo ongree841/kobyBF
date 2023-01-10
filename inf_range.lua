@@ -1,4 +1,4 @@
-lua game:GetService('Workspace')['_UNITS']
+local units = game:GetService("Workspace")["_UNITS"]
 ['dio'].HumanoidRootPart.CFrame = enemi.HumanoidRootPart.CFrame
 ['yuno']HumanoidRootPart.CFrame = enemi.HumanoidRootPart.CFrame
 ['Ice Queen']HumanoidRootPart.CFrame = enemi.HumanoidRootPart.CFrame
